@@ -24,14 +24,6 @@ Please contact the authors or Inova/Unicamp (software@inova.unicamp.br) for comm
 
 We kindly ask that reference to RosenPy should be done as:
 
-@article{cruz2024rosenpy,
-  title={RosenPy: An open source python framework for complex-valued neural networks},
-  author={Cruz, Ariadne A and Mayer, Kayol S and Arantes, Dalton S},
-  journal={SoftwareX},
-  volume={28},
-  pages={101925},
-  year={2024},
-  publisher={Elsevier}
-}
+CRUZ, Ariadne A.; MAYER, Kayol S.; ARANTES, Dalton S. RosenPy: An open source python framework for complex-valued neural networks. SoftwareX, v. 28, p. 101925, 2024.
 
 
